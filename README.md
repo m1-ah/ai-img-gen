@@ -20,10 +20,7 @@
 cd ai-img-gen
 
 ## 3. Open index.html in Your Browser:
-You can double-click the index.html file, or
-Use a local development server for enhanced experience:
-# Using Python 3.x
-python -m http.server
+You can double-click the index.html file
 
 ## 4. Enter Your OpenAI API Key:
 Open script.js.
