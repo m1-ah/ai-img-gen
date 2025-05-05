@@ -42,7 +42,7 @@ ai-img-gen/
 ├── script.js       # JavaScript logic for API interaction
 └── style.css       # Styling for the application
 
-##🧪 Example Prompts
+## 🧪 Example Prompts
 "A futuristic cityscape at dusk"
 "A serene beach with palm trees"
 "An astronaut riding a horse on Mars"
